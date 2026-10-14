@@ -1,0 +1,7 @@
+College Management System
+Student Name: Swarup	
+Roll Number: 046
+Department: CSD
+Semester: 5th
+Attendance: 85%
+Result: PASS
